@@ -1,7 +1,7 @@
 {
-  "name": "angular-drag-and-drop-lists",
+  "name": "angular-drag-and-drop-lists-spiria",
   "main": "angular-drag-and-drop-lists.js",
-  "version": "2.1.0",
+  "version": "2.1.1",
   "homepage": "https://github.com/marceljuenemann/angular-drag-and-drop-lists",
   "authors": [
     "Marcel Juenemann <marcel@juenemann.cc>"
